@@ -12,9 +12,7 @@
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview :page_facing_up:
-This application is in response to an RFP: https://github.com/w3f/Grants-Program/blob/master/rfps/social-recovery-wallet.md
-
-If this is an application for a follow-up grant (the continuation of an earlier, successful W3F grant), please provide name and/or pull request of said grant on the first line of this section.
+This application is in response to the [Socail Recovery Wallet RFP](https://github.com/w3f/Grants-Program/blob/master/rfps/social-recovery-wallet.md)
 
 ### Overview
 
@@ -88,13 +86,16 @@ We are an experienced team with over 30 years’ experience in crypto and emergi
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-- https://github.com/<team_member_1>
+- https://github.com/Gniar/
 - https://github.com/<team_member_2>
 
 ### Team LinkedIn Profiles (if available)
+- https://www.linkedin.com/in/stefanrust/
+- https://www.linkedin.com/in/robin-guyard/<Robin_Guyard>
+- https://linkedin.com/in/sam-austin-75364663
+- https://www.linkedin.com/in/nicolasnups/
+- https://www.linkedin.com/in/miuchelsea/
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
 
 ## Development Status :open_book:
 
