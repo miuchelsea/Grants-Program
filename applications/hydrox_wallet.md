@@ -4,27 +4,28 @@
 >
 > See the [Grants Program Process](https://github.com/w3f/Grants-Program/#pencil-process) on how to submit a proposal.
 
-- **Project Name:** Name of your project (e.g. DuoSwap Module)
-- **Team Name:** Legal name of your team (e.g. Duo)
+- **Project Name:** HydroX Wallet - MVP
+- **Team Name:** Hydro Labs Inc.
 - **Payment Address:** BTC, Ethereum (USDT/DAI) or Karura (kUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
-- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1, 2 or 3
+- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview :page_facing_up:
-
-If this application is in response to an RFP, please indicate this on the first line of this section.
+This application is in response to an RFP: https://github.com/w3f/Grants-Program/blob/master/rfps/social-recovery-wallet.md
 
 If this is an application for a follow-up grant (the continuation of an earlier, successful W3F grant), please provide name and/or pull request of said grant on the first line of this section.
 
 ### Overview
 
-Please provide the following:
+HydroX Wallet is a Polkadot browser extension wallet. As the current ecosystem does not have an easy-to-use wallet, we are building an open-source user-friendly wallet that makes it safe and easy to send, receive, stake and swap on the Polkadot blockchains. The HydroX Wallet aims to support the evolution of the Polkadot DeFi community and provide an effortless UX flow for DeFi and Web 3.0 experiences directly from your favourite web browser.
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
-- An indication of why your team is interested in creating this project.
+- Securely send, receive, store, swap and stake tokens
+- Non-custodial, open source and zero tracking privacy focus
+- Web 3.0 support with ease in connecting with dapps directly from the browser
+- Easy and intuitive staking to generate rewards for storing and securing the Polkadot network.
+
+We will integrate Polkadot DOT and Kusama KSM in the HydroX Wallet. In our pipeline, the team is also considering to integrate other major chains in the ecosystem, such as Acala, Karura, Bifrost, Altair, Centrifuge, Nodle, Moonriver, Moonbeam, Darwinia and Crab.Network, etc.
 
 ### Project Details
 
@@ -53,31 +54,37 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+Samuel Austin - Project Lead (Team Leader)
+Stefan Rust - Founder and CEO (Project Owner)
+Robin Guyard - CTO
+Nicholas Nups - Product Manager
+Chelsea Miu - Partnerships and Business Development Lead
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:**
+- **Contact Name:** Chelsea Miu
+- **Contact Email:** chelsea@hydrogenx.io
+- **Website:** https://hydrogenx.io/
 
 ### Legal Structure
 
 - **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+- **Registered Legal Entity:** Hydro Labs Inc
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
-
-If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
+We are an experienced team with over 30 years’ experience in crypto and emerging tech. We have been developing, executing, delivering and growing businesses, ecosystems and communities globally. Each team member possesses comprehensive skills with specialties in software, tech, UX and marketing respectively. Our current project is [Trusted Node](https://trustednode.io). Our CEO is ex-CEO of [Bitcoin.com](https://www.bitcoin.com/); CTO worked on Blockchain Engineering at [Crypto.com](https://crypto.com/); Project Lead worked on [AppZaloot](https://appzaloot.com/), a blockchain-based social media app and Haven App, a decentralized cryptocurrency marketplace; Product Manager worked as Technical Project Manager at [HighVibe.Network](https://www.highvibe.network/) and Partnerhips & Business Development Lead worked as Brand Director at [MAD Gaze](https://www.madgaze.com), a leading consumer-focus augmented reality smart glasses and metaverse ecosystem company .
 
 ### Team Code Repos
 
 - https://github.com/<your_organisation>
 - https://github.com/<your_organisation>/<project_1>
 - https://github.com/<your_organisation>/<project_2>
+
+- https://github.com/Gniar/zencashjs
+- https://github.com/Gniar/zenaddress
+- https://github.com/polkadot-js/tools/issues/174
+- https://github.com/polkadot-js/tools/issues/175
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
@@ -115,19 +122,17 @@ For each milestone,
 - indicate milestone duration as well as number of full-time employees working on each milestone.
 - **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
 
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
-
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in Bitcoin, the amount will be calculated according to the exchange rate at the time of payment.
+- **Total Estimated Duration:** 2 months
+- **Full-Time Equivalent (FTE):**  5
+- **Total Costs:** 50,000 USD
 
-### Milestone 1 Example — Implement Substrate Modules
+### Milestone 1 Example — Implement Polkadot, Kusama and Other Chain Modules
 
-- **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
+- **Estimated Duration:** 1 month
+- **FTE:**  5
+- **Costs:** 25,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -145,8 +150,8 @@ For each milestone,
 ### Milestone 2 Example — Additional features
 
 - **Estimated Duration:** 1 month
-- **FTE:**  1
-- **Costs:** 4,000 USD
+- **FTE:**  5
+- **Costs:** 25,000 USD
 
 ...
 
@@ -161,10 +166,8 @@ Please include here
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** Web3 Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** Web3 Foundation Website
 
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
+The project has already kicked off after scope clarification, design verifications and user story refinement. Development has begun.
 
-- Work you have already done.
 - Wheter there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
