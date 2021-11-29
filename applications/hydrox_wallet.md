@@ -5,14 +5,14 @@
 > See the [Grants Program Process](https://github.com/w3f/Grants-Program/#pencil-process) on how to submit a proposal.
 
 - **Project Name:** HydroX Wallet - MVP
-- **Team Name:** Hydro Labs Inc.
+- **Team Name:** Hydro Labs (HK) Limited
 - **Payment Address:** BTC, Ethereum (USDT/DAI) or Karura (kUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview :page_facing_up:
-This application is in response to the [Socail Recovery Wallet RFP](https://github.com/w3f/Grants-Program/blob/master/rfps/social-recovery-wallet.md)
+This application is in response to the [Social Recovery Wallet RFP](https://github.com/w3f/Grants-Program/blob/master/rfps/social-recovery-wallet.md)
 
 ### Overview
 
@@ -23,7 +23,7 @@ HydroX Wallet is a Polkadot browser extension wallet. As the current ecosystem d
 - Web 3.0 support with ease in connecting with dapps directly from the browser
 - Easy and intuitive staking to generate rewards for storing and securing the Polkadot network.
 
-We will integrate Polkadot DOT and Kusama KSM in the HydroX Wallet. In our pipeline, the team is also considering to integrate other major chains in the ecosystem, such as Acala, Karura, Bifrost, Altair, Centrifuge, Nodle, Moonriver, Moonbeam, Darwinia and Crab.Network, etc.
+We will integrate Polkadot and Kusama in the HydroX Wallet. In our pipeline, the team is also considering to integrate other major chains in the ecosystem, such as Acala, Karura, Bifrost, Altair, Centrifuge, Nodle, Moonriver, Moonbeam, Darwinia and Crab.Network, etc.
 
 ### Project Details
 
@@ -39,24 +39,22 @@ We expect the teams to already have a solid idea about your project's expected f
 
 ### Ecosystem Fit
 
-Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
+HydroX’s primary target audience are DeFi aware crypto currency advocates that use Polkadot, and secondary is anyone who needs a user-friendly crypto wallet.
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+Within the Substrate / Polkadot / Kusama ecosystem, there are other wallet projects, however, there is no intuitive browser wallet like HydroX wallet. Security of most of existing wallets can be complex and confusing. Also, they only offer simple staking functionality and many crypto features are difficult to understand.
+
+HydroX wallet is building an intuitive DOT based wallet with excellent UX, introducing existing and familiar security access and blockchain guardian to our target users. Apart from auto selecting validator for the user, we also recommend validator and have wallet optimized for them. We also incentivize users with native token to engage in wallet features, simplify the crypto syntax to layman terms to divide risk for beginners as well, where we believe which is beneficial to the ecosystem and community.
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 
-Samuel Austin - Project Lead (Team Leader)
-Stefan Rust - Founder and CEO (Project Owner)
-Robin Guyard - CTO
-Nicholas Nups - Product Manager
-Chelsea Miu - Partnerships and Business Development Lead
+- Samuel Austin - Project Lead (Team Leader)
+- Stefan Rust - Founder and CEO (Project Owner)
+- Robin Guyard - CTO
+- Nicholas Nups - Product Manager
+- Jake Gould - Product Analyst
+- Chelsea Miu - Partnerships and Business Development Lead
 
 ### Contact
 
@@ -66,8 +64,8 @@ Chelsea Miu - Partnerships and Business Development Lead
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-- **Registered Legal Entity:** Hydro Labs Inc
+- **Registered Address:** Flat 3101-3102, 31/F., Tower 6, The Gateway, Harbour City, Tsim Sha Tsui, Kowloon, Hong Kong
+- **Registered Legal Entity:** Hydro Labs (HK) Limited
 
 ### Team's experience
 
@@ -91,9 +89,10 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ### Team LinkedIn Profiles (if available)
 - https://www.linkedin.com/in/stefanrust/
-- https://www.linkedin.com/in/robin-guyard/<Robin_Guyard>
+- https://www.linkedin.com/in/robin-guyard/
 - https://linkedin.com/in/sam-austin-75364663
 - https://www.linkedin.com/in/nicolasnups/
+- https://www.linkedin.com/in/jakegould/
 - https://www.linkedin.com/in/miuchelsea/
 
 
@@ -101,7 +100,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
-- links to improvement proposals or [RFPs](https://github.com/w3f/Grants-Program/tree/master/rfp-proposal) (requests for proposal),
+- [Social Recovery Wallet RFP](https://github.com/w3f/Grants-Program/blob/master/rfps/social-recovery-wallet.md),
 - academic publications relevant to the problem,
 - links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
 - references to conversations you might have had related to this project with anyone from the Web3 Foundation,
