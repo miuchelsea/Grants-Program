@@ -84,13 +84,30 @@ We are an experienced team with over 30 years’ experience in crypto and emergi
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
+Stefan Rust
+- https://www.bitcoin.com
+
+Robin Guyard
 - https://github.com/Gniar/
 - https://github.com/<team_member_2>
+- https://www.crypto.com
+
+Samuel Austin
+- https://www.toptal.com/designers/resume/samuel-austin#project=haven
+- https://www.toptal.com/designers/resume/samuel-austin#project=appzaloot
+
+Nicolas Nups
+
+
+Jake Gould
+
+Chelsea Miu
+- https://www.madgaze.com
 
 ### Team LinkedIn Profiles (if available)
 - https://www.linkedin.com/in/stefanrust/
 - https://www.linkedin.com/in/robin-guyard/
-- https://linkedin.com/in/sam-austin-75364663
+- https://www.linkedin.com/in/sam-austin-75364663
 - https://www.linkedin.com/in/nicolasnups/
 - https://www.linkedin.com/in/jakegould/
 - https://www.linkedin.com/in/miuchelsea/
